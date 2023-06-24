@@ -1,0 +1,338 @@
+{
+  "main": {
+    "id": "0ccd383b08aa6e94",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1cf4a4fbf057355",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65330a2706faade5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to the Old Testament - RK Harrison/Cainites.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d6d7d3c8ad3ce03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to the Old Testament - RK Harrison/Ebionites.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15bba17ca2a31a1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to the Old Testament - RK Harrison/Cassiodorus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa6b92d12fd52490",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "ae65e47d4b765570",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "0a3585c0a0e745d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contra Celsum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5838c148a58c6e04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to the Old Testament - RK Harrison/Ophites.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6eb77d187e998c6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "be38b8e8ce50a832",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to the Old Testament - RK Harrison/Cainites.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c10911811d82a2c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to the Old Testament - RK Harrison/Tatian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "007996e2243c28c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to the Old Testament - RK Harrison/Satornilus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a174b0e41d9b7201",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b70cc2a797a98992",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to the Old Testament - RK Harrison/Ptolemy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acdf5c9e0f840860",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to the Old Testament - RK Harrison/Marcion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb8d5469b26cbc06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to the Old Testament - RK Harrison/Nazarites.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d9a3905e6634f48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to the Old Testament - RK Harrison/Valentinus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ffb5aeeee5f3f49",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6cfc4cc387d77ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "986aad96ac1dc39c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "63f1db032128dd8a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#History",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7a76ae0ff4d85d33",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "06080ca64c59de7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9eb05397830ed35c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c68e58237a754f3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e95d9d6c42b7a5dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "de86aab21a8885bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "45fd614c59039c4c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ae65e47d4b765570",
+  "lastOpenFiles": [
+    "exponent.md",
+    "Sidekiq.md",
+    "Introduction to the Old Testament - RK Harrison/Cainites.md",
+    "De Institutione Divinarum Scripturarum.md",
+    "Introduction to the Old Testament - RK Harrison/Cassiodorus.md",
+    "Introduction to the Old Testament - RK Harrison/Theodore of Mopsuestia.md",
+    "Introduction to the Old Testament - RK Harrison/Jerome.md",
+    "Introduction to the Old Testament - RK Harrison/Julius Africanus.md",
+    "Introduction to the Old Testament - RK Harrison/Porphyry.md",
+    "Introduction to the Old Testament - RK Harrison/Celsus.md",
+    "Contra Celsum.md",
+    "Introduction to the Old Testament - RK Harrison/The Clementine Homilies.md",
+    "Introduction to the Old Testament - RK Harrison/Ebionites.md",
+    "Arion of Methymna.md",
+    "Introduction to the Old Testament - RK Harrison/Nazarites.md",
+    "Introduction to the Old Testament - RK Harrison",
+    "Untitled",
+    "Introduction to the Old Testament - RK Harrison/Satornilus.md",
+    "Introduction to the Old Testament - RK Harrison/Ophites.md",
+    "Introduction to the Old Testament - RK Harrison/Marcion.md",
+    "Introduction to the Old Testament - RK Harrison/Ptolemy.md",
+    "Introduction to the Old Testament - RK Harrison/Valentinus.md",
+    "Introduction to the Old Testament - RK Harrison/Tatian.md",
+    "Theory.md",
+    "Introduction to the Old Testament - RK Harrison/Introduction to The Old Testament.md"
+  ]
+}
